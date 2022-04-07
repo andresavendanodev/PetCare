@@ -1,0 +1,7 @@
+Credits :
+Images:
+  - https://www.pexels.com/
+  -  https://www.flaticon.com/
+Fonts:
+  - https://fonts.google.com/
+  - https://fontawesome.com/
